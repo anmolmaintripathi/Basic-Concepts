@@ -21,7 +21,7 @@
   The word “poly” means many and “morphs” means forms, So Polymorphism means `many forms` (Looking alike but exhibit different characteristics).
   Polymorphism allows us to perform a single action in different ways. In other words, polymorphism allows you to define one interface and have multiple implementations. 
   
-  * #### Method Overloading: (its can application of polymorphism and should be said along with it)
+  * #### Method Overloading: (its an application of polymorphism and should be said along with it)
     When there are multiple functions with `same name but different parameters` then these functions are said to be overloaded. Functions can be overloaded or differentiated by change in number of arguments or/and change in type of arguments.
    
 ###  Inheritence
