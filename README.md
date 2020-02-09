@@ -25,3 +25,6 @@
     When there are multiple functions with `same name but different parameters` then these functions are said to be overloaded. Functions can be overloaded or differentiated by change in number of arguments or/and change in type of arguments.
    
 ###  Inheritence
+ The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the   most important feature of Object Oriented Programming.
+ Sub Class: The class that inherits properties from another class is called Sub class or Derived Class.
+ Super Class:The class whose properties are inherited by sub class is called Base Class or Super class.
