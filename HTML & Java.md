@@ -47,5 +47,5 @@ Hypertext Markup Language is the standard markup language for documents designed
   - 6.  Database connection
   
 ### BASICS :
-  - 1. ava is an object-oriented programming language (OOPS) 
+  - 1. Java is an object-oriented programming language (OOPS) 
   - 2. Everything in Java is associated with classes and objects, along with its attributes and methods. 
