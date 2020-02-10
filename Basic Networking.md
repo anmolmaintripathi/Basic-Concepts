@@ -43,4 +43,20 @@
 
 ### PROTOCOLS :
   * #### TCP/IP :
+   - Transfer Control Protocol / Internet Protocol
     - TCP/IP is the primary network protocol of the internet. The acronym refers to Transmission Control Protocol and the Internet Protocol, the two frameworks on which the model is based. A related family of protocols built on top of TCP/IP allows web browsers, email, and many other applications to communicate across networks globally. Applications and computers using TCP/IP identify each other with assigned IP addresses, which are a series of numbers that typically looks like 
+
+  * #### SMTP :
+    - Simple Mail Transfer Protocols
+    - SMTP is a set of communication guidelines that allow software to transmit an electronic mail over the internet is It is a program used for sending messages to other computer users based on e-mail addresses.
+    
+  * #### FTP :
+    - File Transfer Protocols
+    - FTP is a standard internet protocol for transmitting files between computers on the internet over TCP/IP connections. It is a client server protocol that relies on two communications channels between client and server.
+    
+  * #### HTTP/HTTPS :
+    - Hyper Text Transfer Protocols / Hyper Text Transfer Protocols Secure
+    - This was the initial protocol that were used to access web content, because of its security vulnerabilities it was replaced by HTTPS. HTTPS is the secure version of HTTP that is now commonly used to access website content.
+   
+   
+    
