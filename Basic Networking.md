@@ -27,9 +27,8 @@
     
     * ##### Bus Topology : 
       - Bus topology is a network type in which every computer and network device is connected to single cable. It transmits the data from one end to another in single direction. No bi-directional feature is in bus topology.
-       ![Bus](https://media.geeksforgeeks.org/wp-content/uploads/3-55.png)
-
-      
+      ![Bus](https://media.geeksforgeeks.org/wp-content/uploads/3-55.png)
+       
     * ##### Ring Topology :
       - In this topology, it forms a ring connecting a devices with its exactly two neighbouring devices.
       ![Ring](https://media.geeksforgeeks.org/wp-content/uploads/4-32.png)
