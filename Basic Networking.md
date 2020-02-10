@@ -43,7 +43,7 @@
 
 ### PROTOCOLS :
   * #### TCP/IP :
-   - Transfer Control Protocol / Internet Protocol
+    - Transfer Control Protocol / Internet Protocol
     - TCP/IP is the primary network protocol of the internet. The acronym refers to Transmission Control Protocol and the Internet Protocol, the two frameworks on which the model is based. A related family of protocols built on top of TCP/IP allows web browsers, email, and many other applications to communicate across networks globally. Applications and computers using TCP/IP identify each other with assigned IP addresses, which are a series of numbers that typically looks like 
 
   * #### SMTP :
