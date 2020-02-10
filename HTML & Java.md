@@ -20,6 +20,7 @@ Hypertext Markup Language is the standard markup language for documents designed
       <h2>h2 Tag</h2>
       <p>Paragraph Tag</p>
       <a href="https://www.google.com">This is a link</a>
+      <button>Click me</button>
     </body>
   </html>
   ```
