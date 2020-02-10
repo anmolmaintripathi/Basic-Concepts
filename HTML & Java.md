@@ -26,3 +26,26 @@ Hypertext Markup Language is the standard markup language for documents designed
   ```
   
   #### Refer : [Link for all different tags.](https://www.w3schools.com/tags/ref_byfunc.asp)
+  
+  
+# JAVA : 
+  Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.
+
+### Why Use Java?
+  - 1. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)  
+  - 2. It is one of the most popular programming language in the world
+  - 3. It is easy to learn and simple to use
+  - 4. It is open-source and free
+  - 5. It is secure, fast and powerful
+  
+### Java Application : 
+  - 1.  Mobile applications (specially Android apps)
+  - 2.  Desktop applications
+  - 3.  Web applications
+  - 4.  Web servers and application servers
+  - 5.  Games
+  - 6.  Database connection
+  
+### BASICS :
+  - 1. ava is an object-oriented programming language (OOPS) 
+  - 2. Everything in Java is associated with classes and objects, along with its attributes and methods. 
