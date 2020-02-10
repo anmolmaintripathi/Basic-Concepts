@@ -38,8 +38,8 @@
       - This topology is a collection of two or more topologies which are described above.
       ![Hybrid](https://media.geeksforgeeks.org/wp-content/uploads/5-23.png)
    
- * ####  Network Routing, Switching, and Bridging :
-   * Most computer networks direct messages from source to destination devices using any of three techniques: routing, switching, and bridging. Routers use certain network address information contained inside messages to send them ahead to their destination (often via other routers). Switches use much of the same technology as routers but typically support local area networks only. Bridging allows messages to flow between two different types of physical networks.
+  * ####  Network Routing, Switching, and Bridging :
+    * Most computer networks direct messages from source to destination devices using any of three techniques: routing, switching, and bridging. Routers use certain network address information contained inside messages to send them ahead to their destination (often via other routers). Switches use much of the same technology as routers but typically support local area networks only. Bridging allows messages to flow between two different types of physical networks.
 
 * ### PROTOCOLS :
   * #### TCP/IP :
