@@ -41,6 +41,6 @@
   * ####  Network Routing, Switching, and Bridging :
     * Most computer networks direct messages from source to destination devices using any of three techniques: routing, switching, and bridging. Routers use certain network address information contained inside messages to send them ahead to their destination (often via other routers). Switches use much of the same technology as routers but typically support local area networks only. Bridging allows messages to flow between two different types of physical networks.
 
-* ### PROTOCOLS :
+### PROTOCOLS :
   * #### TCP/IP :
     - TCP/IP is the primary network protocol of the internet. The acronym refers to Transmission Control Protocol and the Internet Protocol, the two frameworks on which the model is based. A related family of protocols built on top of TCP/IP allows web browsers, email, and many other applications to communicate across networks globally. Applications and computers using TCP/IP identify each other with assigned IP addresses, which are a series of numbers that typically looks like 
