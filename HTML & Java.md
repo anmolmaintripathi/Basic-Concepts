@@ -49,3 +49,5 @@ Hypertext Markup Language is the standard markup language for documents designed
 ### BASICS :
   - 1. Java is an object-oriented programming language (OOPS) 
   - 2. Everything in Java is associated with classes and objects, along with its attributes and methods. 
+  
+  #### Refer : [Link to Java Class](https://www.w3schools.com/java/java_classes.asp)
