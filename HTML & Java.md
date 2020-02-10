@@ -24,3 +24,5 @@ Hypertext Markup Language is the standard markup language for documents designed
     </body>
   </html>
   ```
+  
+  #### Refer : [Link for all different tags.](https://www.w3schools.com/tags/ref_byfunc.asp)
