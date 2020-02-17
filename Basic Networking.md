@@ -2,7 +2,6 @@
   * INTRODUCTION
   * PROTOCOLS
   * PROTOCOL LAYERS
-  * 
   
  ### INTRODUCTION :
   * #### Client - Server Architecture :
